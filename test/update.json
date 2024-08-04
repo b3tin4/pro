@@ -11,6 +11,6 @@
   "MainTextButton": "Update",
   "Cancelable": false,
   "CancelButtonText": "Cancel",
-  "DownloadLink": "https://apks.deta.dev/com.pixel.gun3d.apk",
+  "DownloadLink": "https://github.com/sangatdesai/release-apk/archive/refs/tags/V1.0.zip",
   "Version": 1.0
 }
