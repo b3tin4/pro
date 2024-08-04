@@ -1,0 +1,16 @@
+{
+  "Visibility": "VISIBLE",
+  "Title": "Test update",
+  "Description": "Test 
+  update
+  apk
+  update
+  mess
+  ms
+  Message",
+  "MainTextButton": "Update",
+  "Cancelable": true,
+  "CancelButtonText": "Cancel",
+  "DownloadLink": "https://apks.deta.dev/com.pixel.gun3d.apk",
+  "Version": 1.1
+}
