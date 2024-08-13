@@ -5,6 +5,9 @@
   "Msg": "New update is available, to continue in our app please update it.
 
      Info:
+-ℹ️ update the application outside working hours 
+-ℹ️ you will need a token to access the application 
+-⭕️🔴 added the Token system 
 -\u26A0\uFE0F now the ---no thanks--- button works to be able to update later.
 -\u26D4\uFE0F if the button does not work, it means that it must update to continue.
 -\uD83D\uDFE2 redirected the network location to the GPS location.
