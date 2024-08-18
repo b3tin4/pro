@@ -5,11 +5,11 @@
   "Msg": "New update is available, to continue in our app please update it.
 
      Info:
+-ℹ️ 1.2.12.x2
+-✔️ added token information notification, appears in less than 24 hours.
+-✔️ added token toast message, appears in less than 1 hour.
+-🟢 I configured the application to use resources only up to Android 11, there are fewer restrictions.
 -
--
--
--
-- 
 
 Thank you for using",
   "downloadLink": "https://t.me/+HZGJTdljS1tmOTg0"
