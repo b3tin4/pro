@@ -1,10 +1,13 @@
 {
   "dialogClose": "true",
-  "versionCode": 210000639,
-  "versionName": "1.2.12.x2",
+  "versionCode": 210000682,
+  "versionName": "1.2.54.x",
   "Msg": "New update is available, to continue in our app please update it.
 
      Info:
+-ℹ️ 1.2.54.x
+-🟢 update mod to last version
+-
 -ℹ️ 1.2.12.x2
 -✔️ added token information notification, appears in less than 24 hours.
 -✔️ added token toast message, appears in less than 1 hour.
