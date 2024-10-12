@@ -1,10 +1,13 @@
 {
   "dialogClose": "true",
   "versionCode": 210000720,
-  "versionName": "1.4.4",
+  "versionName": "1.4.4.x",
   "Msg": "New update is available, to continue in our app please update it.
 
      Info:
+-ℹ️ 1.4.4.x
+-🟢 fix show map
+-
 -ℹ️ 1.4.4
 -⚠️ dupa actualizare introduceti noul token primit.
 -🟢 update mod to last version
