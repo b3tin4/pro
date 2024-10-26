@@ -1,10 +1,13 @@
 {
-  "dialogClose": "trueoff",
+  "dialogClose": "true",
   "versionCode": 210000720,
   "versionName": "1.4.4.x",
   "Msg": "New update is available, to continue in our app please update it.
 
      Info:
+-ℹ️ 1.4.4.x2
+-🟢 fix hidden Calculated Weighted Least Square (WLS) Velocity From Raw measurements
+-
 -ℹ️ 1.4.4.x
 -🟢 fix show map
 -
