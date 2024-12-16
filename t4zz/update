@@ -5,26 +5,11 @@
   "Msg": "New update is available, to continue in our app please update it.
 
      Info:
--ℹ️ 1.4.4.x2
--🟢 fix hidden Calculated Weighted Least Square (WLS) Velocity From Raw measurements
+-ℹ️ 1.4.5
+-🟢 free
+-⚠️ ----
 -
--ℹ️ 1.4.4.x
--🟢 fix show map
 -
--ℹ️ 1.4.4
--⚠️ dupa actualizare introduceti noul token primit.
--🟢 update mod to last version
--
--ℹ️ 1.3.1.x
--🟢 update mod to last version
--
--ℹ️ 1.2.54.x
--🟢 update mod to last version
--
--ℹ️ 1.2.12.x2
--✔️ added token information notification, appears in less than 24 hours.
--✔️ added token toast message, appears in less than 1 hour.
--🟢 I configured the application to use resources only up to Android 11, there are fewer restrictions.
 -
 
 Thank you for using",
