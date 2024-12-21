@@ -1,28 +1,16 @@
 {
   "dialogClose": "trueoff",
-  "versionCode": 144355,
-  "versionName": "2.231.7",
+  "versionCode": 870,
+  "versionName": "v4.2449.4",
   "Msg": "New update is available, to continue in our app please update it.
 
      Info:
--ℹ️ 2.231.7
--🟢 update mod to last version
------------------------
--ℹ️ 2.231.6
--✔️ added token information notification, appears in less than 24 hours.
--✔️ added token toast message, appears in less than 1 hour.
--🟢 I configured the application to use resources only up to Android 11, there are fewer restrictions.
------------------------
--ℹ️ update the application outside working hours 
--ℹ️ you will need a token to access the application 
--⭕️🔴 added the Token system 
--\u26A0\uFE0F now the ---no thanks--- button works to be able to update later.
--\u26D4\uFE0F if the button does not work, it means that it must update to continue.
--\uD83D\uDFE2 redirected the network location to the GPS location.
--\uD83D\uDFE2 minor fix
--\uD83D\uDFE2 fix startup issues on some devices
+-ℹ️ v4.2449.3
+-🟢 free
+-⚠️ ----
 -
-- 
+-
+-
 
 Thanks for using",
   "downloadLink": "https://t.me/+HZGJTdljS1tmOTg0"
