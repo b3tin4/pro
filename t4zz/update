@@ -1,5 +1,5 @@
 {
-  "dialogClose": "offtrue",
+  "dialogClose": "true",
   "versionCode": 210000720,
   "versionName": "1.4.5",
   "Msg": "New update is available, to continue in our app please update it.
