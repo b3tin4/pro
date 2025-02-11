@@ -1,10 +1,11 @@
 {
-  "dialogClose": "trueoff",
+  "dialogClose": "false",
   "versionCode": 2329337,
-  "versionName": "1.41.2",
+  "versionName": "1.41.2offline",
   "Msg": "New update is available, to continue in our app please update it.
 
      Info:
+-temporar offline
 -ℹ️ 1.41.2
 -🟢 free
 -⚠️ ----
