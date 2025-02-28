@@ -1,12 +1,12 @@
 {
-  "dialogClose": "false",
-  "versionCode": 210000720,
-  "versionName": "1.4.6",
+  "dialogClose": "true",
+  "versionCode": 21240100,
+  "versionName": "2.124.1x",
   "Msg": "New update is available, to continue in our app please update it.
 
      Info:
--ℹ️ 1.4.6
--🟢 send apk id to admin for token
+-ℹ️ 2.124.1
+-🟢 free
 -⚠️
 -
 -
