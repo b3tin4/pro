@@ -1,15 +1,15 @@
 {
   "dialogClose": "true",
-  "versionCode": 2487703,
-  "versionName": "1.44.1",
+  "versionCode": 2520635,
+  "versionName": "1.45.0",
   "Msg": "New update is available, to continue in our app please update it.
 
      Info:
--ℹ️ 1.44.1
+-ℹ️ 1.45.0
 -✅️ send apk id to admin for token
 -🟢 
 -⚠️
-- 
+- 📍disable location accuracy (g00gle accuracy) 
 - 
 - 
 
