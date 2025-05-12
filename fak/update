@@ -1,15 +1,17 @@
 {
-  "dialogClose": "false",
+  "dialogClose": "true",
   "versionCode": 1115,
   "versionName": "5.9.0.x",
   "Msg": "New update is available, to continue in our app please update it.
 
      Info:
-- 
-- New in mod
-- Move around fake location
-- Joystick
-- Auto Real Route
+- ‼️To stop the fake location: 
+Close the application 
+Reopen the app and close again 🚨
+- ℹ️ New in mod
+- 📍 Move around fake location
+- 🟢 Joystick
+- ✅️ Auto Real Route
 - 
 - 
 
