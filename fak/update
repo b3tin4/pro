@@ -4,7 +4,10 @@
   "versionName": "3.2.0",
   "Msg": "New update is available, to continue in our app please update it.
 
-     Info:
+     Info v3.2.1:
+- 🚘 Default Car navigation speed set to 5m/s
+-
+     Info v3.2.0
 - ‼️To stop the fake location: 
 Close the application 
 Reopen the app and close again 🚨
