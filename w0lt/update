@@ -1,11 +1,11 @@
 {
   "dialogClose": "true",
-  "versionCode": 21360100,
-  "versionName": "2.136.1",
+  "versionCode": 21370300,
+  "versionName": "2.137.3",
   "Msg": "New update is available, to continue in our app please update it.
 
      Info:
--ℹ️ 2.136.1
+-ℹ️ 2.137.3
 -🟢 free
 -⚠️
 - 📍disable location accuracy (g00gle accuracy)
