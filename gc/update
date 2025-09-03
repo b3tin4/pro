@@ -1,11 +1,12 @@
 {
   "dialogClose": "true",
-  "versionCode": 1062,
-  "versionName": "v4.2534.1",
+  "versionCode": 1066,
+  "versionName": "v4.2535.1",
   "Msg": "New update is available, to continue in our app please update it.
 
      Info:
--ℹ️ v4.2534.1
+-ℹ️ v4.2535.1
+-✅️ fix chat
 -✅️ send apk id to admin for token
 -🟢 
 -⚠️ 
